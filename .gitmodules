@@ -8,3 +8,6 @@
 [submodule "zsh/plugins/zsh-completions"]
 	path = zsh/plugins/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions
+[submodule "/home/vamsi/dotfiles/zsh/plugins/.oh-my-zsh"]
+	path = /home/vamsi/dotfiles/zsh/plugins/.oh-my-zsh
+	url = https://github.com/VegaVK/ohmyzsh.git
