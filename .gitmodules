@@ -10,4 +10,4 @@
 	url = https://github.com/zsh-users/zsh-completions
 [submodule "/home/vamsi/dotfiles/zsh/plugins/.oh-my-zsh"]
 	path = /home/vamsi/dotfiles/zsh/plugins/.oh-my-zsh
-	url = https://github.com/VegaVK/ohmyzsh.git
+	url = https://github.com/VegaVK/.oh-my-zsh.git
