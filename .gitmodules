@@ -9,3 +9,6 @@
 	path = zsh/plugins/zsh-completions
 	url = https://github.com/zsh-users/zsh-completions
 
+[submodule "zsh/plugins/.oh-my-zsh"]
+	path = zsh/plugins/.oh-my-zsh
+	url = https://github.com/VegaVK/.oh-my-zsh.git
