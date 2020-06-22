@@ -115,4 +115,7 @@ source ~/catkin_ws/devel/setup.zsh
 cd $CurrD
 }
 
-
+# Allow local customizations in the ~/.zshrc_local_after file
+if [ -f ~/.zshrc_local_after ]; then
+    source ~/.zshrc_local_after
+fi
